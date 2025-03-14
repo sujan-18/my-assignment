@@ -1,0 +1,4 @@
+chicken momo,RS 150
+chicken pizza,RS 400
+mushroom pizza,RS 350
+cold drinks,RS 50

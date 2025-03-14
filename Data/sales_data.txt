@@ -1,0 +1,5 @@
+January, Chef A, $5000
+February, Chef B, $4000
+March, Chef A, $5500
+April, Chef C, $6000
+May, Chef B, $4500

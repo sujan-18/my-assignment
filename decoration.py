@@ -1,4 +1,4 @@
-#This file is only for decoration
+#This file is a decoration file of our project
 def decoration():
     print("-"*77)
     print('+-'*12 + "WELCOME TO OUR PYTHON PROJECT" + '+-'*12)
